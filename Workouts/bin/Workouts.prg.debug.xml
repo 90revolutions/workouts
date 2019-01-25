@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsMenuDelegate.mc" id="3" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsMenuDelegate.mc" id="3" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsMenuDelegate.mc" id="4" lineNum="10" pc="268435479" symbol="onMenuItem"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsMenuDelegate.mc" id="4" lineNum="11" pc="268435483" symbol="onMenuItem"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsMenuDelegate.mc" id="4" lineNum="12" pc="268435494" symbol="onMenuItem"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsMenuDelegate.mc" id="4" lineNum="13" pc="268435518" symbol="onMenuItem"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsMenuDelegate.mc" id="4" lineNum="14" pc="268435529" symbol="onMenuItem"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="6" lineNum="5" pc="268435554" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="6" lineNum="6" pc="268435558" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="7" lineNum="10" pc="268435577" symbol="onLayout"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="7" lineNum="11" pc="268435581" symbol="onLayout"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="8" lineNum="17" pc="268435619" symbol="onShow"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="9" lineNum="21" pc="268435624" symbol="onUpdate"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="9" lineNum="23" pc="268435628" symbol="onUpdate"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsView.mc" id="10" lineNum="29" pc="268435649" symbol="onHide"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsApp.mc" id="12" lineNum="6" pc="268435654" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsApp.mc" id="12" lineNum="7" pc="268435658" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsApp.mc" id="13" lineNum="11" pc="268435677" symbol="onStart"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsApp.mc" id="14" lineNum="15" pc="268435682" symbol="onStop"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsApp.mc" id="15" lineNum="19" pc="268435687" symbol="getInitialView"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsApp.mc" id="15" lineNum="20" pc="268435691" symbol="getInitialView"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsDelegate.mc" id="17" lineNum="5" pc="268435759" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsDelegate.mc" id="17" lineNum="6" pc="268435763" symbol="initialize"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsDelegate.mc" id="18" lineNum="9" pc="268435782" symbol="onMenu"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsDelegate.mc" id="18" lineNum="10" pc="268435786" symbol="onMenu"/>
+<entry filename="D:\\Connect IQ Projects\\Auth\\Workouts\\source\\WorkoutsDelegate.mc" id="18" lineNum="11" pc="268435870" symbol="onMenu"/>
+<entry filename="Rez" id="24" lineNum="16" pc="268435874" symbol="initialize"/>
+<entry filename="Rez" id="24" lineNum="17" pc="268435878" symbol="initialize"/>
+<entry filename="Rez" id="24" lineNum="18" pc="268435896" symbol="initialize"/>
+<entry filename="Rez" id="24" lineNum="19" pc="268435948" symbol="initialize"/>
+<entry filename="Rez" id="27" lineNum="37" pc="268436001" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="41" pc="268436013" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="42" pc="268436184" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="43" pc="268436217" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="44" pc="268436269" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="45" pc="268436385" symbol="MainLayout"/>
+<entry filename="Rez" id="27" lineNum="48" pc="268436437" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="12" object="true" symbol="WorkoutsDelegate"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="17" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="18" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="11" object="true" symbol="WorkoutsApp"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="22" symbol="AppName"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="24" symbol="item_2"/>
+<entry id="23" symbol="item_1"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry field="true" id="20" symbol="menu_label_2"/>
+<entry field="true" id="19" symbol="menu_label_1"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="15" symbol="id_monkey"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry field="true" id="21" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="9" object="true" symbol="WorkoutsMenuDelegate"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry id="10" object="true" symbol="WorkoutsView"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435554" name="item" stackId="1" startPc="268435479"/>
+<entry endPc="268435619" name="dc" stackId="1" startPc="268435577"/>
+<entry endPc="268435649" name="dc" stackId="1" startPc="268435624"/>
+<entry endPc="268435682" name="state" stackId="1" startPc="268435677"/>
+<entry endPc="268435687" name="state" stackId="1" startPc="268435682"/>
+<entry endPc="268436464" name="rez_cmp_local_bitmap_8155514034_fontHeight" stackId="3" startPc="268436013"/>
+<entry endPc="268436464" name="rez_cmp_local_bitmap_8155514034" stackId="2" startPc="268436013"/>
+<entry endPc="268436464" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268436013"/>
+<entry endPc="268436465" name="dc" stackId="1" startPc="268436001"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="WorkoutsMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="WorkoutsMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WorkoutsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WorkoutsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WorkoutsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WorkoutsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WorkoutsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WorkoutsApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WorkoutsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WorkoutsApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WorkoutsApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WorkoutsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="WorkoutsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="198" parentId="globals" symbolId="WorkoutsApp" type="class"/>
+<dataEntry offset="269" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="348" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="395" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="434" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="481" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="512" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="543" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="582" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="645" parentId="globals" symbolId="WorkoutsView" type="class"/>
+<dataEntry offset="724" parentId="globals" symbolId="WorkoutsDelegate" type="class"/>
+<dataEntry offset="779" parentId="globals" symbolId="WorkoutsMenuDelegate" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
